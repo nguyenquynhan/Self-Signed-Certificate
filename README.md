@@ -35,4 +35,4 @@
 	  - [Adding certificate to chrome on Windows](https://docs.vmware.com/en/VMware-Adapter-for-SAP-Landscape-Management/2.1.0/Installation-and-Administration-Guide-for-VLA-Administrators/GUID-D60F08AD-6E54-4959-A272-458D08B8B038.html)
 	  - [For MAC check this guide](https://support.apple.com/en-in/guide/keychain-access/kyca2431/mac)
 
-## Agian, for more detail, please cam you read [this artical](https://devopscube.com/create-self-signed-certificates-openssl), it also shows you all. :) 
+## Agian, for more detail, please read [this artical](https://devopscube.com/create-self-signed-certificates-openssl), it also shows you all.
